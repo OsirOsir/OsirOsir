@@ -23,7 +23,7 @@ I'm professionally working as a Frontend Engineer. To see my profile in detail, 
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ## Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Adeel91&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?osirosir)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adeel91&hide=TeX&layout=compact&theme=prussian)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Adeel91.Adeel91)
