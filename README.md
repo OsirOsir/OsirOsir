@@ -23,7 +23,7 @@ I'm professionally working as a Frontend Engineer. To see my profile in detail, 
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ## Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?OsirOsir=anuraghazra&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osirosir)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
