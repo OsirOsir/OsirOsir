@@ -8,7 +8,7 @@ I'm professionally working as a Frontend Engineer. To see my profile in detail, 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/osir-philip-322b30b7)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21933651/osir-philip)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Osir_Philip)
-[![](https://img.shields.io/badge/-X-FE7A16?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Osir_Philip)
+[![](https://img.shields.io/badge/--FE7A16?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Osir_Philip)
 
 
 ## Skills
