@@ -2,7 +2,7 @@
 
 I am Philip Osir. 
 A **Software Engineer** based in Kenya working. 
-Having around 2 years of experience in full-stack web development since 2021, 
+Having more than 2 years of experience in full-stack development since 2022, 
 I'm professionally working as a Frontend Engineer. To see my profile in detail, I recommend to look at my LinkedIn profile.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/osir-philip-322b30b7)
