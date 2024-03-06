@@ -1,4 +1,4 @@
-### Hi there 👋
+### HELLO THERE 👋
 
 I am Philip Osir. 
 A **Software Engineer** based in Kenya working. 
