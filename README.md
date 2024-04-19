@@ -26,11 +26,6 @@ I'm professionally working as a Frontend Engineer. To see my profile in detail, 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
-
-📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OsirOsir&show_icons=true&theme=radical&repo=GO-LANG,refresherGo,Piscine-Work)
-
-
 ## Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OsirOsir&theme=dark)
