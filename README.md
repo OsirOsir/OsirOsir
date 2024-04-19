@@ -33,3 +33,11 @@ I'm professionally working as a Frontend Engineer. To see my profile in detail, 
 ![Go](https://img.shields.io/badge/Go-46.3%25-blue)
 
 
+#### Latest Projects
+
+- [Project 1](https://github.com/OsirOsir/project1): Description of Project 1.
+- [Project 2](https://github.com/OsirOsir/project2): Description of Project 2.
+- [Project 3](https://github.com/OsirOsir/project3): Description of Project 3.
+
+
+
