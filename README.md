@@ -33,7 +33,5 @@ I'm professionally working as a Frontend Engineer. To see my profile in detail, 
 
 
 
+![Visitor Badge](https://shields.io/badge/dynamic/json?label=visitors&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FAdeel91%2FAdeel91)
 
-
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Adeel91.Adeel91)
