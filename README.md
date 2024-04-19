@@ -31,13 +31,3 @@ I'm professionally working as a Frontend Engineer. To see my profile in detail, 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OsirOsir&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osirosir)](https://github.com/anuraghazra/github-readme-stats)
 ![Go](https://img.shields.io/badge/Go-46.3%25-blue)
-
-
-#### Latest Projects
-
-- [Project 1](https://github.com/OsirOsir/project1): Description of Project 1.
-- [Project 2](https://github.com/OsirOsir/project2): Description of Project 2.
-- [Project 3](https://github.com/OsirOsir/project3): Description of Project 3.
-
-
-
