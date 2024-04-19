@@ -28,9 +28,10 @@ I'm professionally working as a Frontend Engineer. To see my profile in detail, 
 ## Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osirosir)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Philip Osir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OsirOsir&show_icons=true&theme=radical&repo=GO-LANG,refresherGo,Piscine-Work)](https://github.com/OsirOsir)
 ![Go](https://img.shields.io/badge/Go-46.3%25-blue)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=OsirOsir&theme=github)
+
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Adeel91.Adeel91)
