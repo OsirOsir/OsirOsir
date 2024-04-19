@@ -25,13 +25,14 @@ I'm professionally working as a Frontend Engineer. To see my profile in detail, 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+
+🛠️ Languages & Tools
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OsirOsir&layout=compact&theme=radical&langs_count=6&exclude_repo=GO-LANG,refresherGo,Piscine-Work)
+
 ## Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OsirOsir&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osirosir)](https://github.com/anuraghazra/github-readme-stats)
 ![Go](https://img.shields.io/badge/Go-46.3%25-blue)
 
-
-
-![Visitor Badge](https://shields.io/badge/dynamic/json?label=visitors&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FAdeel91%2FAdeel91)
 
