@@ -29,6 +29,8 @@ I'm professionally working as a Frontend Engineer. To see my profile in detail, 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osirosir)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Philip Osir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=<osirosir>&show_icons=true&theme=radical)](https://github.com/<osirosir>)
+
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Adeel91.Adeel91)
