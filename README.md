@@ -28,5 +28,5 @@ I'm professionally working as a Frontend Engineer. To see my profile in detail, 
 
 ## Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OsirOsir&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OsirOsir&langs_count=10&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OsirOsir&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 ![Go](https://img.shields.io/badge/Go-46.3%25-blue)
