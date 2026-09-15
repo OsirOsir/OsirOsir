@@ -1,7 +1,6 @@
 ### HELLO THERE 👋
 
-I am . 
-A **Software Engineer** based in Kenya working. 
+I'm a **Software Engineer** . 
 Having some experience in full-stack development since January 2024, 
 I'm professionally working as a Frontend Engineer. To see my profile in detail, I recommend to look at my LinkedIn profile.
 
